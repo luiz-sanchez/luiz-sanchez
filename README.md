@@ -23,9 +23,9 @@ Sou formado em **Análise e Desenvolvimento de Sistemas** e técnico em **Mecatr
 
 | Projeto | O que é | Stack |
 |---|---|---|
-| [**UniFlow**](https://github.com/lhdesigner22/UniFlow) | Sistema interno da TI: Kanban, chamados sincronizados do GLPI, base de conhecimento, aprovações e métricas, com login único e papéis de acesso. Em produção. | React · Hono · Cloudflare Workers · D1 |
-| [**Jukebox**](https://github.com/lhdesigner22/JukeBox-UniFECAF) | App para eventos integrado ao Spotify: os convidados entram com o código da festa e montam a fila de músicas pelo celular. | JavaScript · Netlify Functions · Spotify API |
-| [**Booking-System**](https://github.com/lhdesigner22/Booking-System) | Reserva de equipamentos de TI com painel administrativo, controle de estoque e autenticação JWT. | Node.js · Express · PostgreSQL · React |
+| [**UniFlow**](https://github.com/luiz-sanchez/UniFlow) | Sistema interno da TI: Kanban, chamados sincronizados do GLPI, base de conhecimento, aprovações e métricas, com login único e papéis de acesso. Em produção. | React · Hono · Cloudflare Workers · D1 |
+| [**Jukebox**](https://github.com/luiz-sanchez/JukeBox-UniFECAF) | App para eventos integrado ao Spotify: os convidados entram com o código da festa e montam a fila de músicas pelo celular. | JavaScript · Netlify Functions · Spotify API |
+| [**Booking-System**](https://github.com/luiz-sanchez/Booking-System) | Reserva de equipamentos de TI com painel administrativo, controle de estoque e autenticação JWT. | Node.js · Express · PostgreSQL · React |
 
 ---
 
@@ -57,11 +57,4 @@ Sou formado em **Análise e Desenvolvimento de Sistemas** e técnico em **Mecatr
   <img src="https://img.shields.io/badge/GLPI-1E6FB8?style=flat-square" alt="GLPI">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows">
   <img src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Workspace">
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lhdesigner22&show_icons=true&hide_border=true&theme=tokyonight" alt="Estatísticas do GitHub" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhdesigner22&layout=compact&hide_border=true&theme=tokyonight" alt="Linguagens mais usadas" height="160">
 </p>
